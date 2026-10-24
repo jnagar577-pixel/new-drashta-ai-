@@ -1,0 +1,975 @@
+[
+{
+"utc": "1947-08-14T18:30:00+00:00",
+"lat": 28.6139,
+"lon": 77.209,
+"lagna": {
+"sign": "Taurus",
+"degree": 7.7353,
+"dms": "7\u00b044\u2032",
+"lord": "Venus",
+"lord_house": 3,
+"nakshatra": "Krittika",
+"pada": 4
+},
+"ayanamsha": 23.1213,
+"planets": {
+"Sun": {
+"longitude": 118.0002,
+"sign": "Cancer",
+"house": 3,
+"nakshatra": "Ashlesha",
+"pada": 4,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)"
+},
+"Moon": {
+"longitude": 94.04,
+"sign": "Cancer",
+"house": 3,
+"nakshatra": "Pushya",
+"pada": 1,
+"retrograde": false,
+"dignity": "own sign",
+"combust": false
+},
+"Mars": {
+"longitude": 67.4711,
+"sign": "Gemini",
+"house": 2,
+"nakshatra": "Ardra",
+"pada": 1,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": false
+},
+"Mercury": {
+"longitude": 103.6903,
+"sign": "Cancer",
+"house": 3,
+"nakshatra": "Pushya",
+"pada": 4,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": false
+},
+"Jupiter": {
+"longitude": 205.8763,
+"sign": "Libra",
+"house": 6,
+"nakshatra": "Vishakha",
+"pada": 2,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": false
+},
+"Venus": {
+"longitude": 112.5772,
+"sign": "Cancer",
+"house": 3,
+"nakshatra": "Ashlesha",
+"pada": 2,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": true
+},
+"Saturn": {
+"longitude": 110.4854,
+"sign": "Cancer",
+"house": 3,
+"nakshatra": "Ashlesha",
+"pada": 2,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": true
+},
+"Rahu": {
+"longitude": 35.0738,
+"sign": "Taurus",
+"house": 1,
+"nakshatra": "Krittika",
+"pada": 3,
+"retrograde": true,
+"dignity": "not assessed"
+},
+"Ketu": {
+"longitude": 215.0738,
+"sign": "Scorpio",
+"house": 7,
+"nakshatra": "Anuradha",
+"pada": 1,
+"retrograde": true,
+"dignity": "not assessed"
+}
+},
+"aspects": {
+"Sun": [
+9
+],
+"Moon": [
+9
+],
+"Mars": [
+5,
+8,
+9
+],
+"Mercury": [
+9
+],
+"Jupiter": [
+10,
+12,
+2
+],
+"Venus": [
+9
+],
+"Saturn": [
+5,
+9,
+12
+],
+"Rahu": [
+7
+],
+"Ketu": [
+1
+]
+}
+},
+{
+"utc": "2000-01-01T12:00:00+00:00",
+"lat": 20.0,
+"lon": 77.0,
+"lagna": {
+"sign": "Gemini",
+"degree": 12.0974,
+"dms": "12\u00b005\u2032",
+"lord": "Mercury",
+"lord_house": 7,
+"nakshatra": "Ardra",
+"pada": 2
+},
+"ayanamsha": 23.8531,
+"planets": {
+"Sun": {
+"longitude": 256.5283,
+"sign": "Sagittarius",
+"house": 7,
+"nakshatra": "Purva Ashadha",
+"pada": 1,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)"
+},
+"Moon": {
+"longitude": 199.4951,
+"sign": "Libra",
+"house": 5,
+"nakshatra": "Swati",
+"pada": 4,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": false
+},
+"Mars": {
+"longitude": 304.1233,
+"sign": "Aquarius",
+"house": 9,
+"nakshatra": "Dhanishta",
+"pada": 4,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": false
+},
+"Mercury": {
+"longitude": 248.0539,
+"sign": "Sagittarius",
+"house": 7,
+"nakshatra": "Mula",
+"pada": 3,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": true
+},
+"Jupiter": {
+"longitude": 1.4197,
+"sign": "Aries",
+"house": 11,
+"nakshatra": "Ashwini",
+"pada": 1,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": false
+},
+"Venus": {
+"longitude": 217.7262,
+"sign": "Scorpio",
+"house": 6,
+"nakshatra": "Anuradha",
+"pada": 2,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": false
+},
+"Saturn": {
+"longitude": 16.5226,
+"sign": "Aries",
+"house": 11,
+"nakshatra": "Bharani",
+"pada": 1,
+"retrograde": true,
+"dignity": "debilitated",
+"combust": false
+},
+"Rahu": {
+"longitude": 101.1914,
+"sign": "Cancer",
+"house": 2,
+"nakshatra": "Pushya",
+"pada": 3,
+"retrograde": true,
+"dignity": "not assessed"
+},
+"Ketu": {
+"longitude": 281.1914,
+"sign": "Capricorn",
+"house": 8,
+"nakshatra": "Shravana",
+"pada": 1,
+"retrograde": true,
+"dignity": "not assessed"
+}
+},
+"aspects": {
+"Sun": [
+1
+],
+"Moon": [
+11
+],
+"Mars": [
+12,
+3,
+4
+],
+"Mercury": [
+1
+],
+"Jupiter": [
+3,
+5,
+7
+],
+"Venus": [
+12
+],
+"Saturn": [
+1,
+5,
+8
+],
+"Rahu": [
+8
+],
+"Ketu": [
+2
+]
+}
+},
+{
+"utc": "1985-03-21T03:15:00+00:00",
+"lat": 19.076,
+"lon": 72.8777,
+"lagna": {
+"sign": "Aries",
+"degree": 13.8826,
+"dms": "13\u00b052\u2032",
+"lord": "Mars",
+"lord_house": 1,
+"nakshatra": "Bharani",
+"pada": 1
+},
+"ayanamsha": 23.6466,
+"planets": {
+"Sun": {
+"longitude": 336.8168,
+"sign": "Pisces",
+"house": 12,
+"nakshatra": "Uttara Bhadrapada",
+"pada": 2,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)"
+},
+"Moon": {
+"longitude": 332.8322,
+"sign": "Pisces",
+"house": 12,
+"nakshatra": "Purva Bhadrapada",
+"pada": 4,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": true
+},
+"Mars": {
+"longitude": 10.6597,
+"sign": "Aries",
+"house": 1,
+"nakshatra": "Ashwini",
+"pada": 4,
+"retrograde": false,
+"dignity": "own sign",
+"combust": false
+},
+"Mercury": {
+"longitude": 354.1364,
+"sign": "Pisces",
+"house": 12,
+"nakshatra": "Revati",
+"pada": 3,
+"retrograde": false,
+"dignity": "debilitated",
+"combust": false
+},
+"Jupiter": {
+"longitude": 285.3705,
+"sign": "Capricorn",
+"house": 10,
+"nakshatra": "Shravana",
+"pada": 2,
+"retrograde": false,
+"dignity": "debilitated",
+"combust": false
+},
+"Venus": {
+"longitude": 357.5414,
+"sign": "Pisces",
+"house": 12,
+"nakshatra": "Revati",
+"pada": 4,
+"retrograde": true,
+"dignity": "exalted",
+"combust": false
+},
+"Saturn": {
+"longitude": 214.2894,
+"sign": "Scorpio",
+"house": 8,
+"nakshatra": "Anuradha",
+"pada": 1,
+"retrograde": true,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": false
+},
+"Rahu": {
+"longitude": 27.3147,
+"sign": "Aries",
+"house": 1,
+"nakshatra": "Krittika",
+"pada": 1,
+"retrograde": true,
+"dignity": "not assessed"
+},
+"Ketu": {
+"longitude": 207.3147,
+"sign": "Libra",
+"house": 7,
+"nakshatra": "Vishakha",
+"pada": 3,
+"retrograde": true,
+"dignity": "not assessed"
+}
+},
+"aspects": {
+"Sun": [
+6
+],
+"Moon": [
+6
+],
+"Mars": [
+4,
+7,
+8
+],
+"Mercury": [
+6
+],
+"Jupiter": [
+2,
+4,
+6
+],
+"Venus": [
+6
+],
+"Saturn": [
+10,
+2,
+5
+],
+"Rahu": [
+7
+],
+"Ketu": [
+1
+]
+}
+},
+{
+"utc": "2020-07-01T06:00:00+00:00",
+"lat": 28.6,
+"lon": 77.2,
+"lagna": {
+"sign": "Virgo",
+"degree": 3.1773,
+"dms": "3\u00b010\u2032",
+"lord": "Mercury",
+"lord_house": 10,
+"nakshatra": "Uttara Phalguni",
+"pada": 2
+},
+"ayanamsha": 24.1394,
+"planets": {
+"Sun": {
+"longitude": 75.7372,
+"sign": "Gemini",
+"house": 10,
+"nakshatra": "Ardra",
+"pada": 3,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)"
+},
+"Moon": {
+"longitude": 204.3782,
+"sign": "Libra",
+"house": 2,
+"nakshatra": "Vishakha",
+"pada": 2,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": false
+},
+"Mars": {
+"longitude": 337.7792,
+"sign": "Pisces",
+"house": 7,
+"nakshatra": "Uttara Bhadrapada",
+"pada": 2,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": false
+},
+"Mercury": {
+"longitude": 75.5307,
+"sign": "Gemini",
+"house": 10,
+"nakshatra": "Ardra",
+"pada": 3,
+"retrograde": true,
+"dignity": "own sign",
+"combust": true
+},
+"Jupiter": {
+"longitude": 269.8589,
+"sign": "Sagittarius",
+"house": 4,
+"nakshatra": "Uttara Ashadha",
+"pada": 1,
+"retrograde": true,
+"dignity": "own sign",
+"combust": false
+},
+"Venus": {
+"longitude": 41.8609,
+"sign": "Taurus",
+"house": 9,
+"nakshatra": "Rohini",
+"pada": 1,
+"retrograde": false,
+"dignity": "own sign",
+"combust": false
+},
+"Saturn": {
+"longitude": 275.8903,
+"sign": "Capricorn",
+"house": 5,
+"nakshatra": "Uttara Ashadha",
+"pada": 3,
+"retrograde": true,
+"dignity": "own sign",
+"combust": false
+},
+"Rahu": {
+"longitude": 64.4536,
+"sign": "Gemini",
+"house": 10,
+"nakshatra": "Mrigashira",
+"pada": 4,
+"retrograde": true,
+"dignity": "not assessed"
+},
+"Ketu": {
+"longitude": 244.4536,
+"sign": "Sagittarius",
+"house": 4,
+"nakshatra": "Mula",
+"pada": 2,
+"retrograde": true,
+"dignity": "not assessed"
+}
+},
+"aspects": {
+"Sun": [
+4
+],
+"Moon": [
+8
+],
+"Mars": [
+10,
+1,
+2
+],
+"Mercury": [
+4
+],
+"Jupiter": [
+8,
+10,
+12
+],
+"Venus": [
+3
+],
+"Saturn": [
+7,
+11,
+2
+],
+"Rahu": [
+4
+],
+"Ketu": [
+10
+]
+}
+},
+{
+"utc": "1960-11-05T22:45:00+00:00",
+"lat": 51.5072,
+"lon": -0.1276,
+"lagna": {
+"sign": "Cancer",
+"degree": 22.0086,
+"dms": "22\u00b000\u2032",
+"lord": "Moon",
+"lord_house": 11,
+"nakshatra": "Ashlesha",
+"pada": 2
+},
+"ayanamsha": 23.3061,
+"planets": {
+"Sun": {
+"longitude": 200.2309,
+"sign": "Libra",
+"house": 4,
+"nakshatra": "Vishakha",
+"pada": 1,
+"retrograde": false,
+"dignity": "debilitated"
+},
+"Moon": {
+"longitude": 48.6235,
+"sign": "Taurus",
+"house": 11,
+"nakshatra": "Rohini",
+"pada": 3,
+"retrograde": false,
+"dignity": "exalted",
+"combust": false
+},
+"Mars": {
+"longitude": 83.9387,
+"sign": "Gemini",
+"house": 12,
+"nakshatra": "Punarvasu",
+"pada": 2,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": false
+},
+"Mercury": {
+"longitude": 204.264,
+"sign": "Libra",
+"house": 4,
+"nakshatra": "Vishakha",
+"pada": 2,
+"retrograde": true,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": true
+},
+"Jupiter": {
+"longitude": 248.66,
+"sign": "Sagittarius",
+"house": 6,
+"nakshatra": "Mula",
+"pada": 3,
+"retrograde": false,
+"dignity": "own sign",
+"combust": false
+},
+"Venus": {
+"longitude": 235.2705,
+"sign": "Scorpio",
+"house": 5,
+"nakshatra": "Jyeshtha",
+"pada": 3,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": false
+},
+"Saturn": {
+"longitude": 260.5785,
+"sign": "Sagittarius",
+"house": 6,
+"nakshatra": "Purva Ashadha",
+"pada": 3,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": false
+},
+"Rahu": {
+"longitude": 139.0068,
+"sign": "Leo",
+"house": 2,
+"nakshatra": "Purva Phalguni",
+"pada": 2,
+"retrograde": true,
+"dignity": "not assessed"
+},
+"Ketu": {
+"longitude": 319.0068,
+"sign": "Aquarius",
+"house": 8,
+"nakshatra": "Shatabhisha",
+"pada": 4,
+"retrograde": true,
+"dignity": "not assessed"
+}
+},
+"aspects": {
+"Sun": [
+10
+],
+"Moon": [
+5
+],
+"Mars": [
+3,
+6,
+7
+],
+"Mercury": [
+10
+],
+"Jupiter": [
+10,
+12,
+2
+],
+"Venus": [
+11
+],
+"Saturn": [
+8,
+12,
+3
+],
+"Rahu": [
+8
+],
+"Ketu": [
+2
+]
+}
+},
+{
+"utc": "2026-10-24T05:00:00+00:00",
+"lat": 23.2599,
+"lon": 77.4126,
+"lagna": {
+"sign": "Sagittarius",
+"degree": 0.581,
+"dms": "0\u00b034\u2032",
+"lord": "Jupiter",
+"lord_house": 8,
+"nakshatra": "Mula",
+"pada": 1
+},
+"ayanamsha": 24.2276,
+"planets": {
+"Sun": {
+"longitude": 186.5763,
+"sign": "Libra",
+"house": 11,
+"nakshatra": "Chitra",
+"pada": 4,
+"retrograde": false,
+"dignity": "debilitated"
+},
+"Moon": {
+"longitude": 340.9019,
+"sign": "Pisces",
+"house": 4,
+"nakshatra": "Uttara Bhadrapada",
+"pada": 3,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": false
+},
+"Mars": {
+"longitude": 110.3792,
+"sign": "Cancer",
+"house": 8,
+"nakshatra": "Ashlesha",
+"pada": 2,
+"retrograde": false,
+"dignity": "debilitated",
+"combust": false
+},
+"Mercury": {
+"longitude": 206.747,
+"sign": "Libra",
+"house": 11,
+"nakshatra": "Vishakha",
+"pada": 3,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": false
+},
+"Jupiter": {
+"longitude": 119.0817,
+"sign": "Cancer",
+"house": 8,
+"nakshatra": "Ashlesha",
+"pada": 4,
+"retrograde": false,
+"dignity": "exalted",
+"combust": false
+},
+"Venus": {
+"longitude": 186.4806,
+"sign": "Libra",
+"house": 11,
+"nakshatra": "Chitra",
+"pada": 4,
+"retrograde": true,
+"dignity": "own sign",
+"combust": true
+},
+"Saturn": {
+"longitude": 345.5649,
+"sign": "Pisces",
+"house": 4,
+"nakshatra": "Uttara Bhadrapada",
+"pada": 4,
+"retrograde": true,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": false
+},
+"Rahu": {
+"longitude": 302.2563,
+"sign": "Aquarius",
+"house": 3,
+"nakshatra": "Dhanishta",
+"pada": 3,
+"retrograde": true,
+"dignity": "not assessed"
+},
+"Ketu": {
+"longitude": 122.2563,
+"sign": "Leo",
+"house": 9,
+"nakshatra": "Magha",
+"pada": 1,
+"retrograde": true,
+"dignity": "not assessed"
+}
+},
+"aspects": {
+"Sun": [
+5
+],
+"Moon": [
+10
+],
+"Mars": [
+11,
+2,
+3
+],
+"Mercury": [
+5
+],
+"Jupiter": [
+12,
+2,
+4
+],
+"Venus": [
+5
+],
+"Saturn": [
+6,
+10,
+1
+],
+"Rahu": [
+9
+],
+"Ketu": [
+3
+]
+}
+},
+{
+"utc": "1900-06-15T08:00:00+00:00",
+"lat": 25.3,
+"lon": 82.97,
+"lagna": {
+"sign": "Virgo",
+"degree": 22.0861,
+"dms": "22\u00b005\u2032",
+"lord": "Mercury",
+"lord_house": 10,
+"nakshatra": "Hasta",
+"pada": 4
+},
+"ayanamsha": 22.4625,
+"planets": {
+"Sun": {
+"longitude": 61.2711,
+"sign": "Gemini",
+"house": 10,
+"nakshatra": "Mrigashira",
+"pada": 3,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)"
+},
+"Moon": {
+"longitude": 269.0085,
+"sign": "Sagittarius",
+"house": 4,
+"nakshatra": "Uttara Ashadha",
+"pada": 1,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": false
+},
+"Mars": {
+"longitude": 28.8986,
+"sign": "Aries",
+"house": 8,
+"nakshatra": "Krittika",
+"pada": 1,
+"retrograde": false,
+"dignity": "own sign",
+"combust": false
+},
+"Mercury": {
+"longitude": 78.8799,
+"sign": "Gemini",
+"house": 10,
+"nakshatra": "Ardra",
+"pada": 4,
+"retrograde": false,
+"dignity": "own sign",
+"combust": false
+},
+"Jupiter": {
+"longitude": 221.2736,
+"sign": "Scorpio",
+"house": 3,
+"nakshatra": "Anuradha",
+"pada": 3,
+"retrograde": true,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": false
+},
+"Venus": {
+"longitude": 91.4845,
+"sign": "Cancer",
+"house": 11,
+"nakshatra": "Punarvasu",
+"pada": 4,
+"retrograde": false,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": false
+},
+"Saturn": {
+"longitude": 249.8893,
+"sign": "Sagittarius",
+"house": 4,
+"nakshatra": "Mula",
+"pada": 3,
+"retrograde": true,
+"dignity": "neutral (friend/enemy not computed)",
+"combust": false
+},
+"Rahu": {
+"longitude": 227.9389,
+"sign": "Scorpio",
+"house": 3,
+"nakshatra": "Jyeshtha",
+"pada": 1,
+"retrograde": true,
+"dignity": "not assessed"
+},
+"Ketu": {
+"longitude": 47.9389,
+"sign": "Taurus",
+"house": 9,
+"nakshatra": "Rohini",
+"pada": 3,
+"retrograde": true,
+"dignity": "not assessed"
+}
+},
+"aspects": {
+"Sun": [
+4
+],
+"Moon": [
+10
+],
+"Mars": [
+11,
+2,
+3
+],
+"Mercury": [
+4
+],
+"Jupiter": [
+7,
+9,
+11
+],
+"Venus": [
+5
+],
+"Saturn": [
+6,
+10,
+1
+],
+"Rahu": [
+9
+],
+"Ketu": [
+3
+]
+}
+}
+]

@@ -1,3 +1,0 @@
-import { auth, ensureProfile } from '../../../../lib/supabase.js';
-export const runtime = "nodejs"; export const dynamic = 'force-dynamic';
-export async function POST(req) { try { const b=await req.json(), email=String(b.email||'').trim().toLowerCase(), password=String(b.password||''); if (!email || !password) return Response.json({error:'Email aur password enter karein.'},{status:400}); const d=await auth('token?grant_type=password',{email,password}); if (d.user) await ensureProfile(d.user); return Response.json({user:{id:d.user?.id,email:d.user?.email},accessToken:d.access_token,expiresIn:d.expires_in}); } catch(e) { return Response.json({error:e.status===400||e.status===401?'Email ya password sahi nahi hai.':e.message||'Login failed.'},{status:e.status||500}); } }

@@ -1,5 +1,0 @@
-import { verifyUser, listSessions, listMessages } from '../../../../lib/supabase.js';
-export const runtime = "nodejs"; export const dynamic = 'force-dynamic';
-const json=(b,s=200)=>Response.json(b,{status:s,headers:{'Cache-Control':'no-store'}});
-export async function GET(req) { const token=req.headers.get('authorization')?.replace(/^Bearer\s+/i,''); const user=await verifyUser(token); if(!user) return json({error:'Please sign in again.'},401); try { return json({sessions:await listSessions(user.id)}); } catch(e) { return json({error:e.message||'History unavailable.'},503); } }
-export async function POST(req) { const token=req.headers.get('authorization')?.replace(/^Bearer\s+/i,''); const user=await verifyUser(token); if(!user) return json({error:'Please sign in again.'},401); try { const b=await req.json(); const sid=String(b.sessionId||''); if(!/^[0-9a-f-]{36}$/i.test(sid)) return json({error:'Invalid session.'},400); const rows=await listSessions(user.id); if(!rows.some(x=>x.id===sid)) return json({error:'Session not found.'},404); return json({messages:await listMessages(sid)}); } catch(e) { return json({error:e.message||'Messages unavailable.'},503); } }

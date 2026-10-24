@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Drashta AI - Vedic chart consultation</title><meta name="description" content="Source-grounded Vedic (D1) chart consultation with Nadi and Parashari references and a separate spiritual conversation mode.">
+<link rel="stylesheet" href="/styles.css"></head>
+<body><div class="shell">
+<header class="top"><div class="brand"><div class="logo" aria-hidden="true">&#9788;</div><h2 id="brandName">Drashta AI</h2></div><span id="status" class="pill" role="status">Checking connection&hellip;</span></header>
+<section id="welcome" class="hero"><div class="sigil" aria-hidden="true">&#9790;</div><h1>Drashta AI</h1>
+<p>A calm, source-aware conversation about your Vedic birth chart. Calculated chart facts are kept separate from interpretation, and every rule shown is cited.</p>
+<button id="begin" class="primary">Begin consultation</button><p class="fine">Interpretive reading, not a scientific prediction. Your birth details stay in this browser session; the server stores nothing about you.</p></section>
+<main id="chatWrap" class="chat hidden" aria-label="Consultation">
+<div id="log" role="log" aria-live="polite" aria-relevant="additions"></div>
+<div id="chips" class="chips"></div>
+<form id="form" class="send" autocomplete="off"><label for="input" class="hidden">Your message</label><input id="input" maxlength="500" placeholder="Type your answer&hellip;" enterkeyhint="send"><button id="send" class="primary" type="submit">Send</button></form>
+<footer class="foot"><div class="bar"><button id="reset" class="ghost" type="button">Start over</button><button id="wipe" class="ghost" type="button">Delete my session data</button></div>
+<span class="fine" id="modeNote"></span></footer></main></div>
+<script src="/app.js"></script></body></html>
